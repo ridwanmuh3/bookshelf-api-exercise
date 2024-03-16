@@ -4,8 +4,8 @@
 	"description": "Dirancang untuk menyelesaikan submission akhir dari course 'back-end untuk pemula'",
 	"main": "index.js",
 	"scripts": {
-		"start": "nodemon ./_src/server",
-		"lint": "eslint ./_src"
+		"start": "nodemon ./src/server",
+		"lint": "eslint ./src"
 	},
 	"keywords": [],
 	"author": "Ridwan Muhammad Raihan",
