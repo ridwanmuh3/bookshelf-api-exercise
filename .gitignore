@@ -1,0 +1,4 @@
+node_modules
+bookshelf-api-webserver.pem
+bookshelf-api-test.postman_collection.json
+bookshelf-api-test.postman_environment.json
